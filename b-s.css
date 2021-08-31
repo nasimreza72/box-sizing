@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    /* box-sizing: border-box; */
+}
+
+.staircase{
+    width: 1000px;
+    height: 1000px;
+    border: 10px solid rgb(228, 125, 142);
+}
+
+.box1{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(22, 245, 22);
+    margin-left: 75%;
+    
+}
+
+.box2{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(22, 245, 22);
+    margin-left: 50%;
+    border: grey 10px solid;
+    box-sizing: border-box;
+    
+}
+
+.box3{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(22, 245, 22);
+    margin-left: 25%;
+    box-sizing: border-box;
+    
+}
+
+.box4{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(22, 245, 22);
+    margin-left: 0%;
+    border: grey 10px solid;
+    box-sizing: border-box;
+    
+}
+
+
+
+
+/* excercise 2 */
+
+/* .staircase-2    {
+
+    width: 1000px;
+    height: 1000px;
+
+} */
+
+.box-1{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(252, 235, 0);
+    border: rgb(253, 106, 106) 10px solid;
+    box-sizing: border-box;
+    
+}
+
+.box222{
+    display: flex;
+
+}
+
+.box-21{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(223, 68, 41);
+    box-sizing: border-box;
+
+}
+
+.box-2{
+    width: 250px;
+    height: 250px;
+    background-color:rgb(252, 235, 0);
+    border: rgb(253, 106, 106) 10px solid;
+    box-sizing: border-box;
+    
+}
+
+.box333 {
+    display: flex;
+}
+
+.box-31 {
+    width: 500px;
+    height: 250px;
+    background-color: rgb(223, 68, 41);
+    box-sizing: border-box;
+
+}
+
+.box-3{
+    width: 250px;
+    height: 250px;
+    border: rgb(253, 106, 106) 10px solid;
+    background-color:rgb(252, 235, 0);
+    box-sizing: border-box;
+    
+}
+
+.box444 {
+    display: flex;
+}
+
+.box-41{
+    width: 750px;
+    height: 250px;
+    background-color: rgb(223, 68, 41);
+    box-sizing: border-box;
+
+}
+
+.box-4{
+    width: 250px;
+    height: 250px;
+    border: rgb(253, 106, 106) 10px solid;
+    background-color:rgb(252, 235, 0);
+    box-sizing: border-box;
+    
+}
+
